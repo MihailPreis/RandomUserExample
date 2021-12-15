@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  RandomUserExample
+
+  Created by Mike Price on 15.12.2021.
+  
+*/
+
+"main-title" = "Случайные пользователи";
+
+"common-error" = "Что-то пошло не так...";
+"server-error-%@" = "Ошибка сервера:\n%@";
+"repeat-bt" = "Повторить";
+
+"email-%@" = "Емейл: %@";
+"gender" = "Пол: ";
+"dob" = "Дата рождения: ";
+"age" = "Возраст: ";
+"email" = "Емейл: ";
+"phone" = "Телефон: ";
+"id" = "Идентификатор";
+"name" = "Имя: ";
+"value" = "Значение: ";

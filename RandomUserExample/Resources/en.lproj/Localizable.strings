@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  RandomUserExample
+
+  Created by Mike Price on 15.12.2021.
+  
+*/
+
+"main-title" = "Random Users";
+
+"common-error" = "Something went wrong...";
+"server-error-%@" = "Server error:\n%@";
+"repeat-bt" = "Repeat";
+
+"email-%@" = "Email: %@";
+"gender" = "Gender: ";
+"dob" = "Date of birth: ";
+"age" = "Age: ";
+"email" = "Email: ";
+"phone" = "Phone: ";
+"id" = "ID";
+"name" = "Name: ";
+"value" = "Value: ";
